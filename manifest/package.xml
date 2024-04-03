@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>APTS_PricingCallback</members>
+        <members>APTS_PricingCallback</members>
+        <members>APTS_OrderTriggerHandler</members>
+        <members>APTS_OrderTriggerHelper</members>
+        <members>APTS_QuoteProposalTriggerHandler</members>
+        <members>APTS_QuoteProposalTriggerHelper</members>
+        <members>APTS_QuoteProposalLifecycleCallback</members>
+        <members>APTS_AssetLineItemCallback</members>
+        <members>APTS_Constants</members>
+        <members>APTS_agreementLineItemTriggerHandler</members>
+        <members>APTS_agreementLineItemTriggerHelper</members>
+        <members>APTS_QuoteActionsController</members>
+        <members>APTS_agreementLifeCycleCallback</members>
+        <members>APTS_CustomAgreementLifecycleCallback</members>
+        <members>APTS_bestPractice</members>
+        <members>APTS_TestDataFactory</members>
+        <members>APTS_validationCallbackClass</members>
+        <members>APTS_AssetLineItemTriggerHandler</members>
+        <members>APTS_AssetLineItemTriggerHelper</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>APTS_ECommerce_Custom</members>
+        <members>Apttus_Config2__ApttusCPQUser</members>
+        <name>PermissionSet</name>
+    </types>
+    <version>56.0</version>
+</Package>
